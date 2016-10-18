@@ -6,14 +6,19 @@ Project Naming conventions at **laruche**
 
 If it's a **website**:
 
--   `<client-name>.ch/.com`
+-   `<websiteUrl>` (with the extension! Like `laruche.io`)
 
 If it's a **client related project**:
 
--   `<client-name>-<name-of-the-app>`
--   `<client-name>-branding`
--   `<client-name>-webdesign`
+-   `<clientName>-<projectName>`
+-   `<clientName>-branding`
+-   `<clientName>-webdesign`
 
 If it's a **backup** from another VCS host (like BitBucket or Gitlab):
 
--   `backup-<project-name>`
+-   `backup-<projectName>`
+
+If it's a **archive** or a discontinuated project, we prepend `archive`:
+
+-   `archive-<projectName>`
+-   `<clientName>-archive-<projectName>`
