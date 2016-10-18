@@ -2,11 +2,9 @@
 
 Code conventions at **laruche**
 
-## Git
+## Version Control (VCS)
 
-### Git Flow
-
-We use the [GitHub flow](https://guides.github.com/introduction/flow/).
+We use [git](https://git-scm.com/) for the version control and the [GitHub flow](https://guides.github.com/introduction/flow/) as the *git workflow*.
 
 ## Versioning
 
