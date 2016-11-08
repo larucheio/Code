@@ -12,6 +12,10 @@ We use [git](https://git-scm.com/) for the version control and the [GitHub flow]
 
 [SEMVER](http://semver.org/)
 
+### Code Review
+
+[Code Review](./code-review.md)
+
 ## Style Guide
 
 ### CSS
