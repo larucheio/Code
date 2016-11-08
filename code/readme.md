@@ -12,6 +12,10 @@ We use [git](https://git-scm.com/) for the version control and the [GitHub flow]
 
 ## Style Guide
 
+### CSS
+
+[CSS conventions](./css.md)
+
 ### JavaScript
 
 [JavaScript Standard Style](http://standardjs.com/)
