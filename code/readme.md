@@ -20,7 +20,7 @@ We use [git](https://git-scm.com/) for the version control and the [GitHub flow]
 
 ### CSS
 
-[CSS conventions](./css.md)
+[CSS Guidelines](http://cssguidelin.es/) with [namespaces](http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 
 ### JavaScript
 
